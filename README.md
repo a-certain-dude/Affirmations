@@ -1,7 +1,7 @@
-Affirmations App - Starter Code
+Affirmations App - Full Code
 ================================
 
-Starter code for the Android Basics with Compose: Affirmations app.
+Full code for the Android Basics with Compose: Affirmations app.
 
 
 Introduction
